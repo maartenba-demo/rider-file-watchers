@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="wwwroot (non-generated files)" pattern="file[riderModule]:src/AcmeWeb/wwwroot//*&amp;&amp;!file:src/AcmeWeb/wwwroot/js/site.min.js&amp;&amp;!file:src/AcmeWeb/wwwroot/css/site.min.css" />
+</component>

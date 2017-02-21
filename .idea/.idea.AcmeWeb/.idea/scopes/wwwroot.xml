@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="wwwroot" pattern="file[riderModule]:src/AcmeWeb/wwwroot//*" />
+</component>
